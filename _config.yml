@@ -22,13 +22,14 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "Yunbin Tu"
-  avatar           : "images/profile2.jpg"
-  bio              : "Institute of Computing Technology, Chinese Academy of Sciences"
+  avatar           : "images/tuyunbin.jpg"
+  bio              : "University of Chinese Academy of Sciences"
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=qc2906sAAAAJ"
-  email            : "minyuecong17@mails.ucas.ac.cn"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=T-T1X0QAAAAJ"
+  dblp             :  "https://dblp.org/pid/207/1931.html"
+  email            : "tuyunbin22@mails.ucas.ac.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "ycmin95"
+  github           : "tuyunbin"
   google_plus      :
   keybase          :
   instagram        :
