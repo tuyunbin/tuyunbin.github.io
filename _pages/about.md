@@ -49,14 +49,14 @@ There are some selected papers:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/DIRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Distractors-Immune Representation Learning with Cross-modal Contrastive Regularization for Change Captioning](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05989.pdf)
+[Distractors-Immune Representation Learning with Cross-modal Contrastive Regularization for Change Captioning](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05989.pdf) [[Code](https://github.com/tuyunbin/DIRL),  [Poster](/assets/eccv24_poster.pdf) [Supp.](https://arxiv.org/pdf/2407.11683)]
 
 **Yunbin Tu**, Liang Li, Li Su, Chenggang Yan, Qingming Huang
 
 <strong><span class='show_paper_citations' data='T-T1X0QAAAAJ:_kc_bZDykSQC'></span></strong>
 
 <!-- [**Project**](https://github.com/ycmin95/VAC_CSLR) <strong><span class='show_paper_citations' data='qc2906sAAAAJ:u_35RYKgDlwC'></span></strong> -->
-- DIRL attains a pair of stable image representations under distractors by correlating the corresponding image channels and decorrelating different ones.
+- DIRL attains a pair of stable image representations by correlating the corresponding their channels and decorrelating different ones.
 - CCR regularizes the cross-modal alignment by maximizing the contrastive alignment between the attended difference features and generated words.
 </div>
 </div>
