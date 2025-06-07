@@ -53,11 +53,24 @@ There are some selected papers:
 
 **Yunbin Tu**, Liang Li, Li Su, Chenggang Yan, Qingming Huang
 
-<strong><span class='show_paper_citations' data='T-T1X0QAAAAJ:_kc_bZDykSQC'></span></strong>
+<!-- <strong><span class='show_paper_citations' data='T-T1X0QAAAAJ:_kc_bZDykSQC'></span></strong> -->
 
 <!-- [**Project**](https://github.com/ycmin95/VAC_CSLR) <strong><span class='show_paper_citations' data='qc2906sAAAAJ:u_35RYKgDlwC'></span></strong> -->
 - DIRL attains a pair of stable image representations by correlating the corresponding their channels and decorrelating different ones.
 - CCR regularizes the cross-modal alignment by maximizing the contrastive alignment between the attended difference features and generated words.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/SMART.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SMART: Syntax-calibrated Multi-Aspect Relation Transformer for Change Captioning](https://ieeexplore.ieee.org/abstract/document/10433795) [[Code](https://github.com/tuyunbin/SMART)]  
+
+**Yunbin Tu**, Liang Li, Li Su, Zheng-Jun Zha, Qingming Huang
+
+- SMART uses a multi-aspect relation learning network to learn effective change features for caption generation.
+- SMART uses a POS-based visual switch to dynamically use visual information during different word generation.
+  
 </div>
 </div>
 
