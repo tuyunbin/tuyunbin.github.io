@@ -49,7 +49,7 @@ There are some selected papers:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/DIRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Distractors-Immune Representation Learning with Cross-modal Contrastive Regularization for Change Captioning](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05989.pdf) [[Code](https://github.com/tuyunbin/DIRL)] | [[Poster](/assets/eccv24_poster.pdf)] | [[Supp.](https://arxiv.org/pdf/2407.11683)]
+[Distractors-Immune Representation Learning with Cross-modal Contrastive Regularization for Change Captioning](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05989.pdf) [[Code](https://github.com/tuyunbin/DIRL)]  [[Poster](/assets/eccv24_poster.pdf)]  [[Supp.](https://arxiv.org/pdf/2407.11683)]
 
 **Yunbin Tu**, Liang Li, Li Su, Chenggang Yan, Qingming Huang
 
