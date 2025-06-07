@@ -87,6 +87,32 @@ There are some selected papers:
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2023</div><img src='images/VARD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Viewpoint-Adaptive Representation Disentanglement Network for Change Captioning](https://ieeexplore.ieee.org/document/10108947) [[Code](https://github.com/tuyunbin/VARD)]  
+**Yunbin Tu**, Liang Li, Li Su, Junping Du, Ke Lu, Qingming Huang
+
+- VARD helps the model  adapt to viewpoint changes via mining the intrinsic properties of two image representations and modeling their position information.
+- VARD uses an unchanged representation disentanglement to distinguish the unchanged features from changed features.
+  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/NCT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Neighborhood Contrastive Transformer for Change Captioning](https://ieeexplore.ieee.org/document/10086696) [[Code](https://github.com/tuyunbin/NCT)]  
+**Yunbin Tu**, Liang Li, Li Su, Ke Lu, Qingming Huang
+
+- NCT learns the contrast features between two images via a  neighboring feature aggregating and a common feature distilling.  
+- Explicit dependencies between words is used to help the decoder to better understand complex syntax structure during training.
+  
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2021</div><img src='images/vac.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
