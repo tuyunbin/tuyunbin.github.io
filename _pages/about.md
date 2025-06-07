@@ -53,7 +53,7 @@ There are some selected papers:
 
 **Yunbin Tu**, Liang Li, Li Su, Chenggang Yan, Qingming Huang
 
-<strong><span class='show_paper_citations' data='qc2906sAAAAJ:u_35RYKgDlwC'></span></strong>
+<strong><span class='show_paper_citations' data='T-T1X0QAAAAJ:_kc_bZDykSQC'></span></strong>
 
 <!-- [**Project**](https://github.com/ycmin95/VAC_CSLR) <strong><span class='show_paper_citations' data='qc2906sAAAAJ:u_35RYKgDlwC'></span></strong> -->
 - RadialCTC constrains sequence features on a hypersphere while retaining the iterative alignment mechanism of CTC, which also provides a clear geometric interpretation for CTC
