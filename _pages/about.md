@@ -136,7 +136,7 @@ There are some selected papers:
 - 2019.09 – 2022.06, M.S. in Pattern Recognition and Intelligent Systems, Kunming University of Science and Technology (KUST), China.
 - 2014.09 – 2018.06, B.S. in Automation, Hangzhou Dianzi University (HDU), China.
 
-# ✒️ Academic Services
+# 📄 Academic Services
 - Area Chair of ACL 2025 / EMNLP 2025 / ACM MM 2025
 - Journal Reviewer of  TIP / TCSVT / PR / CVIU / Machine Learning / Neurocomputing ...
 - Conference Reviewer of ICCV / CVPR / ECCV / NeurIPS / AAAI / IJCAI ...
