@@ -91,26 +91,31 @@ I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~su
 - [FlickerNet: Adaptive 3D Gesture Recognition from Sparse Point Clouds.](https://bmvc2019.org/wp-content/uploads/papers/0326-paper.pdf) **Yuecong Min**, Xiujuan Chai, Lei Zhao, Xilin Chen, British Machine Vision Conference (BMVC), 2019.
 
 
-# 🎖 Honors and Awards
-- **China National Scholarship for Ph.D.**, ICT, CAS, 2022
-
+# 🏆 Honors and Awards
+-  CAS President Scholarship (Excellent Prize), 2025. (中国科学院院长优秀奖)
+-  The Inaugural Doctoral Student Program under the Young Elite Scientists Sponsorship Program, China Association for Science and Technology, 2025. （首届中国科协青年人才托举工程博士生专项计划，托举学会：中国计算机学会）
+-  AAAI Student Scholarship, 2025.
+-  National Scholarship for Doctoral Students, Ministry of Education of the People’s Republic of China, 2024.
+-  Diversity and Inclusion Award, Annual Meeting of the Association for Computational Linguistics (ACL), 2024.
+-  National Scholarship for Master's Students, Ministry of Education of the People’s Republic of China, 2021.
+-  Student Travel Grant, ACM International Conference on Multimedia (ACM MM), 2017.
 
 # 📖 Educations
-- 2017.09 - 2024.1, I was a Ph.D. student at Institute of Computing Technology, CAS, under the supervision of Prof. [Xilin Chen](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao).
-- 2013.09 - 2017.07, I was a college student in Shandong University, Weihai.
+- 2022.09 - Present, Ph.D. in Computer Applied Technology, University of Chinese Academy of Sciences (UCAS), China.
+- 2019.09 – 2022.06, M.S. in Pattern Recognition and Intelligent Systems, Kunming University of Science and Technology (KUST), China.
+- 2014.09 – 2018.06, B.S. in Automation, Hangzhou Dianzi University (HDU), China.
 
 # ✒️ Academic Services
-- Invited journal reviewer for
-IEEE TPAMI / IEEE TMM / IEEE TIP / PR ...
-- Invited conference reviewer for
-CVPR'22 /ACM MM'22 / ECCV'22 / CVPR'23 ...
+- Area Chair of ACL 2025 / EMNLP 2025 / ACM MM 2025
+- Journal Reviewer of  TIP / TCSVT / PR / CVIU / Machine Learning / Neurocomputing ...
+- Conference Reviewer of ICCV / CVPR / ECCV / NeurIPS / AAAI / IJCAI ...
 
-# ⚙️ Misc
+<!-- # ⚙️ Misc
 - A summary of papers on gesture and sign language recognition. [![](https://img.shields.io/github/stars/ycmin95/awesome-Gesture-Sign-Language-Recognition?style=social&label=Awesome-Gesture-Sign-Language-Recognition Stars)](https://github.com/ycmin95/awesome-Gesture-Sign-Language-Recognition)
 - A simple tool to visualize the main keywords of accepted papers for the recent Computer Vision conferences [![](https://img.shields.io/github/stars/ycmin95/CVPaperStatistics?style=social&label=CVPaperStatistics Stars)](https://github.com/ycmin95/CVPaperStatistics)
 
 
-<!-- # 💬 Invited Talks
+ # 💬 Invited Talks
 - *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
