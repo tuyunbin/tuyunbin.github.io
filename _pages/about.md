@@ -56,8 +56,8 @@ There are some selected papers:
 <strong><span class='show_paper_citations' data='T-T1X0QAAAAJ:_kc_bZDykSQC'></span></strong>
 
 <!-- [**Project**](https://github.com/ycmin95/VAC_CSLR) <strong><span class='show_paper_citations' data='qc2906sAAAAJ:u_35RYKgDlwC'></span></strong> -->
-- RadialCTC constrains sequence features on a hypersphere while retaining the iterative alignment mechanism of CTC, which also provides a clear geometric interpretation for CTC
-- RadialCTC controls the peaky behavior with a simple angular perturbation term
+- DIRL attains a pair of stable image representations under distractors by correlating the corresponding image channels and decorrelating different ones.
+- CCR regularizes the cross-modal alignment by maximizing the contrastive alignment between the attended difference features and generated words.
 </div>
 </div>
 
