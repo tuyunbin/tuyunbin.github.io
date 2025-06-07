@@ -49,7 +49,7 @@ There are some selected papers:
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ECCV 2024</div><img src='images/DIRL.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Distractors-Immune Representation Learning with Cross-modal Contrastive Regularization for Change Captioning](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05989.pdf) [[Code](https://github.com/tuyunbin/DIRL)]  [[Poster](/assets/eccv24_poster.pdf)]  [[Supp.](https://arxiv.org/pdf/2407.11683)]
+[Distractors-Immune Representation Learning with Cross-modal Contrastive Regularization for Change Captioning](https://www.ecva.net/papers/eccv_2024/papers_ECCV/papers/05989.pdf) [[Code](https://github.com/tuyunbin/DIRL)]  [[Supp.](https://arxiv.org/pdf/2407.11683)]
 
 **Yunbin Tu**, Liang Li, Li Su, Chenggang Yan, Qingming Huang
 
@@ -70,6 +70,19 @@ There are some selected papers:
 
 - SMART uses a multi-aspect relation learning network to learn effective change features for caption generation.
 - SMART uses a POS-based visual switch to dynamically use visual information during different word generation.
+  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2023</div><img src='images/SCORER.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Self-supervised Cross-view Representation Reconstruction for Change Captioning](https://openaccess.thecvf.com/content/ICCV2023/papers/Tu_Self-supervised_Cross-view_Representation_Reconstruction_for_Change_Captioning_ICCV_2023_paper.pdf) [[Code](https://github.com/tuyunbin/SCORER)]  [[Supp.]( https://openaccess.thecvf.com/content/ICCV2023/supplemental/Tu_Self-supervised_Cross-view_Representation_ICCV_2023_supplemental.pdf)]
+
+**Yunbin Tu**, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
+
+- SCORER learns two view-invariant image representations by by maximizing cross-view contrastive alignment of two similar images.
+- CBR reversely models a "hallucination" representation with the caption and "before" image, and matchs it with the real "after" image.
   
 </div>
 </div>
