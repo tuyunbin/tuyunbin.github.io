@@ -41,8 +41,7 @@ I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~su
 
 # 📝 Publications 
 
-My full paper list can be found at <a href='https://scholar.google.com/citations?user=T-T1X0QAAAAJ&hl=en'><img src="https://img.shields.io/badge/Google%20Scholar-orange"></a>.
-There are some selected papers:
+Selected publications are listed below. The full list is available on <a href='https://scholar.google.com/citations?user=T-T1X0QAAAAJ&hl=en'><img src="https://img.shields.io/badge/Google%20Scholar-orange"></a>.
 
 ## 🖼️ Image Difference Captioning (Change Captioning)
 
