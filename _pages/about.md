@@ -25,13 +25,19 @@ I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~su
 
 
 # 🔥 News
-- *2024.09*: &nbsp;🎉🎉 One paper on skeleton-aware sign language recognition was accepted by ACCV 2024. Congratulations to Yifan Yang and the team!
-- *2024.06*: &nbsp;🎉🎉 One paper on vision-language pre-training in SLT was accepted by ECCV 2024. Congratulations to Peiqi Jiao and the team!
-- *2023.12*: &nbsp;🎉🎉 Successfully defended my PhD dissertation. 
-- *2023.10*: &nbsp;🎉🎉 One paper on keyframe selection in CSLR was accepted by Scientia Sinica Informationis 2023. 
-- *2023.10*: Present the doctoral consortium "Alignment Constraints for Video-based Sign Language Understanding" at the workshop on Assistive Computer Vision and Robotics at ICCV23 [[pdf]](https://iplab.dmi.unict.it/acvr2023/program/Alignment_Constraints_for_Video_based_Sign_Language_Understanding.pdf) [[workshop]](https://iplab.dmi.unict.it/acvr2023/program)
-- *2023.07*: &nbsp;🎉🎉 One paper on co-occurrence signals in CSLR was accepted by ICCV 2023. Congratulations to Peiqi Jiao and the team!
-- *2022.07*: &nbsp;🎉🎉 One paper on sequential representation learning was accepted by ECCV 2022.
+- 2025.05: A paper is accepted by ACL 2025 Findings (long paper). Congrats to Yi Li!
+- 2025.04: I will be serving as an Area Chair for ACM MM 2025.
+- 2025.04: I will be serving as an Area Chair for EMNLP 2025.
+- 2025.02: I will be serving as an Area Chair for ACL 2025.
+- 2025.01: Selected for the Inaugural Doctoral Student Program under the Young Elite Scientists Sponsorship Program by CAST. （入选首届中国科协青年人才托举工程博士生专项计划，托举学会：中国计算机学会）
+- 2024.12: Two papers are accepted by AAAI 2025. Congrats to Shijie Li!
+- 2024.07: A paper is accepted by ECCV 2024.
+- 2024.07: A paper is accepted by ACM MM 2024. Congrats to Shijie Li!
+- 2024.07: A paper is accepted by IEEE TMM. Congrats to Yiting Liu!
+- 2024.07: A paper is accepted by ECAI 2024. Congrats to Shijie Li!
+- 2024.05: A paper is accepted by ACL 2024 main conference (long paper).
+<!-- 2024.04: A paper is accepted by ACM TOMM. Congrats to [Shengbin Yue](https://yueshengbin.github.io/)! -->
+<!-- 2024.01: A paper is accepted by IEEE TPAMI. &nbsp;🎉🎉🎉 -->
 
 # 📝 Publications 
 
