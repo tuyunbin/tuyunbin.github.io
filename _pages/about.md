@@ -17,20 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently an Assistant Professor in Visual Information Processing and Learning ([VIPL](https://vipl.ict.ac.cn/)) group at the Institute of Computing Technology (ICT), Chinese Academy of Sciences (CAS). I received my Ph.D. from ICT, CAS in 2024, under the supervision of Prof. [Xilin Chen](https://scholar.google.com/citations?user=vVx2v20AAAAJ&hl=en&oi=ao). I also had close collaboration with Prof. [Xiujuan Chai](https://scholar.google.com/citations?user=ZcL91HsAAAAJ&hl=en&oi=ao). My research interests mainly focus on human behavior analysis and understanding from sequential data, especially for gesture and sign language. I am also interested in exploring how to use data in deep learning more efficient. **Feel free to reach out to me if you have an interest in the relevant topics.**
+I am a final-year Ph.D. student from the School of Computer Science and Technology, University of Chinese Academy of Sciences (UCAS). My research interests include vision-and-language and multimedia content analysis. You can find my [CV](/assets/yunbin_cv.pdf) here.
 
-<!-- During my time pursuing a Ph.D., I focus on efficient visual sequence recognition algorithm designs. For short-term recognition tasks 
-(including gesture and isolated sign language recognition), we propose several approaches to adopt the sparse point cloud sequence sampled from 
-the depth video for recognition. Compared to video-based algorithms, the point-cloud-based algorithm is more efficient and more sensitive to distance changes, 
-and shows effectiveness in gesture recognition and action recognition tasks. After that, I am interested in long-term recognition (i.e., Continuous Sign Language Recognition (CSLR)) 
-and find that current approaches are inefficient. Training a video-based CSLR model needs more than 70 hours, which is unbearable :( !!! After several attempts, we attribute the 
-overfitting of the powerful alignment module to the major problem of the CTC-based CSLR optimization, which leads to insufficient training of the feature extractor. Several 
-constraints are proposed to make the training process more efficient and are adopted by recent CSLR works. I am trying to provide more insights into this phenomenon. -->
 
-<!-- I am looking for a suitable job (vision-based or sequence-based). I believe the job hunting is a two-way selection process. 
-If there is a suitable position, please feel free to contact me :)
+I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~suli) and [Prof. Liang Li](https://vipl.ict.ac.cn/people/lliang/) (ICT, CAS). I received my master's degree from Kunming University of Science and Technology in 2022, advised by [Prof. Zhengtao Yu](https://xzy.kmust.edu.cn/info/1159/1311.htm). I received my bachelor's degree from Hangzhou Dianzi University in 2018, advised by [Prof. Chenggang Yan](https://auto.hdu.edu.cn/2019/0621/c3803a96028/page.htm). I was lucky to have opportunities to collaborate with [Assoc. Prof. Xishan Zhang](http://www.ict.cas.cn/sourcedb_ict_cas/cn/jssrck/202003/t20200310_5509322.html)  (ICT, CAS) and [Prof. Xingzheng Wang](https://cmce.szu.edu.cn/info/1429/3786.htm)  (Shenzhen University).  
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=qc2906sAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=qc2906sAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
 # 🔥 News
