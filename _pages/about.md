@@ -60,6 +60,19 @@ Selected publications are listed below, focusing on three primary research tasks
 </div>
 </div>
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL 2024</div><img src='images/CARD.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Context-aware Difference Distilling for Multi-change Captioning](https://aclanthology.org/2024.acl-long.430.pdf) [[Code](https://github.com/tuyunbin/CARD)]  
+
+**Yunbin Tu**, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
+
+- CARD addresses multi-change captioning with an unknown number of changes.
+- CARD decouples common/difference context features to guide the learning of features of all genuine changes. 
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/SMART.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -139,7 +152,20 @@ Selected publications are listed below, focusing on three primary research tasks
 </div>
 </div>
 
+## 🎞️ Video Captioning
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/I2.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Viewpoint-Adaptive Representation Disentanglement Network for Change Captioning](https://ieeexplore.ieee.org/document/10108947) [[Code](https://github.com/tuyunbin/VARD)]  
+
+**Yunbin Tu**, Liang Li, Li Su, Junping Du, Ke Lu, Qingming Huang
+
+- VARD helps the model  adapt to viewpoint changes via mining the intrinsic properties of two image representations and modeling their position information.
+- VARD uses an unchanged representation disentanglement to distinguish the unchanged features from changed features.
+  
+</div>
+</div>
 
 
 # 🏆 Honors and Awards
