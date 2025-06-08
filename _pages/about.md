@@ -69,17 +69,18 @@ Selected publications are listed below, focusing on three primary research tasks
 **Yunbin Tu**, Liang Li, Li Su, Zheng-Jun Zha, Chenggang Yan, Qingming Huang
 
 - CARD addresses multi-change captioning with an unknown number of changes.
-- CARD decouples common/difference context features to guide the learning of features of all genuine changes. 
+- CARD decouples common/difference context features to guide the learning of features of all genuine changes for generating corresponding sentences. 
 </div>
 </div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2024</div><img src='images/SMART.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SMART: Syntax-calibrated Multi-Aspect Relation Transformer for Change Captioning](https://ieeexplore.ieee.org/abstract/document/10433795) [[Code](https://github.com/tuyunbin/SMART)]  
+[SMART: Syntax-calibrated Multi-Aspect Relation Transformer for Change Captioning](https://ieeexplore.ieee.org/abstract/document/10433795) [[Code](https://github.com/tuyunbin/SMART)]  | *Extension work of SRDRL (ACL Findings 2021)*
 
 **Yunbin Tu**, Liang Li, Li Su, Zheng-Jun Zha, Qingming Huang
 
+- 
 - SMART uses a multi-aspect relation learning network to learn effective change features for caption generation.
 - SMART uses a POS-based visual switch to dynamically use visual information during different word generation.
   
@@ -107,7 +108,7 @@ Selected publications are listed below, focusing on three primary research tasks
 
 **Yunbin Tu**, Liang Li, Li Su, Junping Du, Ke Lu, Qingming Huang
 
-- VARD helps the model  adapt to viewpoint changes via mining the intrinsic properties of two image representations and modeling their position information.
+- VARD helps the model  adapt to viewpoint changes via mining the intrinsic properties of two images and modeling their position information.
 - VARD uses an unchanged representation disentanglement to distinguish the unchanged features from changed features.
   
 </div>
@@ -154,16 +155,39 @@ Selected publications are listed below, focusing on three primary research tasks
 
 ## 🎞️ Video Captioning
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2023</div><img src='images/HMG+HTG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Relation-aware Attention for Video Captioning via Graph Learning](https://www.sciencedirect.com/science/article/abs/pii/S0031320322006835) 
+
+**Yunbin Tu**, Chang Zhou, Junjun Guo, Huafeng Li, Shengxiang Gao, Zhengtao Yu
+
+- HTG aims to enhance the inter-relation of attention by reversely modeling the relation of each word with respect to every attended visual feature.
+- HMG aims to enhance the intra-relation of attention by capturing the relations among all of the attended visual features.
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TIP 2022</div><img src='images/I2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Viewpoint-Adaptive Representation Disentanglement Network for Change Captioning](https://ieeexplore.ieee.org/document/10108947) [[Code](https://github.com/tuyunbin/VARD)]  
+[I<sup>2</sup>Transformer: Intra- and Inter-relation Embedding Transformer for TV Show Captioning](https://ieeexplore.ieee.org/document/9738841) [[Code](https://github.com/tuyunbin/I2Transformer)]  
 
-**Yunbin Tu**, Liang Li, Li Su, Junping Du, Ke Lu, Qingming Huang
+**Yunbin Tu**, Li Su, Shengxiang Gao, Chenggang Yan, Zheng-Jun Zha, Zhengtao Yu, Qingming Huang
 
-- VARD helps the model  adapt to viewpoint changes via mining the intrinsic properties of two image representations and modeling their position information.
-- VARD uses an unchanged representation disentanglement to distinguish the unchanged features from changed features.
-  
+- TV show captioning aims to generate a linguistic sentence based on the video and its associated subtitle. 
+- I<sup>2</sup>Transformer uses an intra-relation embedding to capture intra-relation in each modality and an inter-relation embedding to produce the omni-representation of all modalities.
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">PR 2021</div><img src='images/TTA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enhancing the alignment between target words and corresponding frames for video captioning](https://www.sciencedirect.com/science/article/abs/pii/S0031320320305057) [[Code](https://github.com/tuyunbin/Enhancing-the-Alignment-between-Target-Words-and-Corresponding-Frames-for-Video-Captioning)]  
+
+**Yunbin Tu**, Chang Zhou, Junjun Guo, Shengxiang Gao, Zhengtao Yu
+
+- TTA uses pre-detected visual tags from the video to bridge the gap between vision and language.
+- TTA exactly align the target words with corresponding frames guided by the visual tags.
 </div>
 </div>
 
