@@ -41,7 +41,23 @@ I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~su
 
 # 📝 Publications 
 
-Selected publications are listed below, focusing on three primary research tasks: image difference captioning, video captioning, and hierarchical retrieval and step-captioning. The full list is available on <a href='https://scholar.google.com/citations?user=T-T1X0QAAAAJ&hl=en'><img src="https://img.shields.io/badge/Google%20Scholar-orange"></a>.
+Selected publications are listed below, focusing on three primary research tasks: hierarchical retrieval and step-captioning, image difference captioning, and video captioning. The full list is available on <a href='https://scholar.google.com/citations?user=T-T1X0QAAAAJ&hl=en'><img src="https://img.shields.io/badge/Google%20Scholar-orange"></a>.
+
+## 📚 Hierarchical Retrieval and Step-captioning
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2025</div><img src='images/QUAG.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Query-centric Audio-Visual Cognition Network for Moment Retrieval, Segmentation and Step-Captioning](https://ojs.aaai.org/index.php/AAAI/article/view/32803/34958) [[Code](https://github.com/tuyunbin/QUAG)]  
+
+**Yunbin Tu**, Liang Li, Li Su, Qingming Huang
+
+- QUAG addresses moment retrieval, moment segmentation, and step captioning in a unified framework
+- QUAG learns a query-centric audio-visual representation based on  the shallow-to-deep principle.
+</div>
+</div>
+
+
 
 ## 🖼️ Image Difference Captioning (Change Captioning)
 
@@ -195,7 +211,7 @@ Selected publications are listed below, focusing on three primary research tasks
 
 [STAT: Spatial-Temporal Attention Mechanism for Video Captioning](https://ieeexplore.ieee.org/document/8744407) [[Code](https://github.com/tuyunbin/Video-Description-with-Spatial-Temporal-Attention)]  | *Extension work of STAT (ACM MM 2017)*
 
-Chenggang Yan, **Yunbin Tu**, Xingzheng Wang, Yongbing Zhang, Xinhong Hao, Yongdong Zhang, Qionghai Dai.
+Chenggang Yan, **Yunbin Tu**, Xingzheng Wang, Yongbing Zhang, Xinhong Hao, Yongdong Zhang, Qionghai Dai
 
 - STAT uses both object-level visual and label features to address the problem of detail missing.
 - STAT successfully takes into account both the spatial and temporal structures in a video.
