@@ -91,6 +91,7 @@ Selected publications are listed below, focusing on three primary research tasks
 <div class='paper-box-text' markdown="1">
 
 [Viewpoint-Adaptive Representation Disentanglement Network for Change Captioning](https://ieeexplore.ieee.org/document/10108947) [[Code](https://github.com/tuyunbin/VARD)]  
+
 **Yunbin Tu**, Liang Li, Li Su, Junping Du, Ke Lu, Qingming Huang
 
 - VARD helps the model  adapt to viewpoint changes via mining the intrinsic properties of two image representations and modeling their position information.
@@ -103,6 +104,7 @@ Selected publications are listed below, focusing on three primary research tasks
 <div class='paper-box-text' markdown="1">
   
 [Neighborhood Contrastive Transformer for Change Captioning](https://ieeexplore.ieee.org/document/10086696) [[Code](https://github.com/tuyunbin/NCT)]  
+
 **Yunbin Tu**, Liang Li, Li Su, Ke Lu, Qingming Huang
 
 - NCT learns the contrast features between two images via a  neighboring feature aggregating and a common feature distilling.  
@@ -115,10 +117,21 @@ Selected publications are listed below, focusing on three primary research tasks
 <div class='paper-box-text' markdown="1">
   
 [R<sup>3</sup>Net: Relation-embedded Representation Reconstruction Network for Change Captioning](https://aclanthology.org/2021.emnlp-main.735.pdf) [[Code](https://github.com/tuyunbin/r3net)] [[Video](https://aclanthology.org/2021.emnlp-main.735.mp4)]
+
 **Yunbin Tu**, Liang Li, Chenggang Yan, Shengxiang Gao, Zhengtao Yu
 
 - R<sup>3</sup>Net learns relations within each image and between two images to reconstruct unchanged and changed features. 
 - R<sup>3</sup>Net uses syntactic skeleton predictor  to enhance  semantic interaction between change localization and caption generation. 
+  
+</div>
+</div>
+
+[Semantic Relation-aware Difference Representation Learning for Change Captioning](https://aclanthology.org/2021.findings-acl.6.pdf) [[Code](https://github.com/tuyunbin/SRDRL)] [[Video](https://aclanthology.org/2021.findings-acl.6.mp4)]
+
+**Yunbin Tu**, Tingting Yao, Liang Li, Jiedong Lou, Shengxiang Gao, Zhengtao Yu, Chenggang Yan
+
+- SRDRL models self-semantic relation to explore the underlying changes, and measures cross-semantic relation  to localize the real change. 
+- SRDRL relys on the POS of words, and uses an attention-based visual switch to dynamically use visual information for caption generation.
   
 </div>
 </div>
