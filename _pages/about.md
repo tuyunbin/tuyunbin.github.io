@@ -101,12 +101,24 @@ Selected publications are listed below, focusing on three primary research tasks
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2023</div><img src='images/NCT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
-
+  
 [Neighborhood Contrastive Transformer for Change Captioning](https://ieeexplore.ieee.org/document/10086696) [[Code](https://github.com/tuyunbin/NCT)]  
 **Yunbin Tu**, Liang Li, Li Su, Ke Lu, Qingming Huang
 
 - NCT learns the contrast features between two images via a  neighboring feature aggregating and a common feature distilling.  
 - Explicit dependencies between words is used to help the decoder to better understand complex syntax structure during training.
+  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021</div><img src='images/NCT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+  
+[R<sup>3</sup>Net: Relation-embedded Representation Reconstruction Network for Change Captioning](https://aclanthology.org/2021.emnlp-main.735.pdf) [[Code](https://github.com/tuyunbin/r3net)] [[Video](https://aclanthology.org/2021.emnlp-main.735.mp4)]
+**Yunbin Tu**, Liang Li, Chenggang Yan, Shengxiang Gao, Zhengtao Yu
+
+- R<sup>3</sup>Net learns relations within each image and between two images to reconstruct unchanged and changed features. 
+- R<sup>3</sup>Net uses syntactic skeleton predictor  to enhance  semantic interaction between change localization and caption generation. 
   
 </div>
 </div>
