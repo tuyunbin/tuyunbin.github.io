@@ -41,7 +41,7 @@ I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~su
 
 # 📝 Publications 
 
-Selected publications are listed below, focusing on three primary research tasks: image difference captioning, video captioning, and text-based moment retrieval. The full list is available on <a href='https://scholar.google.com/citations?user=T-T1X0QAAAAJ&hl=en'><img src="https://img.shields.io/badge/Google%20Scholar-orange"></a>.
+Selected publications are listed below, focusing on three primary research tasks: image difference captioning, video captioning, and hierarchical retrieval and step-captioning. The full list is available on <a href='https://scholar.google.com/citations?user=T-T1X0QAAAAJ&hl=en'><img src="https://img.shields.io/badge/Google%20Scholar-orange"></a>.
 
 ## 🖼️ Image Difference Captioning (Change Captioning)
 
@@ -190,6 +190,30 @@ Selected publications are listed below, focusing on three primary research tasks
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2019</div><img src='images/STAT_TMM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[STAT: Spatial-Temporal Attention Mechanism for Video Captioning](https://ieeexplore.ieee.org/document/8744407) [[Code](https://github.com/tuyunbin/Video-Description-with-Spatial-Temporal-Attention)]  | *Extension work of STAT (ACM MM 2017)*
+
+Chenggang Yan, **Yunbin Tu**, Xingzheng Wang, Yongbing Zhang, Xinhong Hao, Yongdong Zhang, Qionghai Dai.
+
+- STAT uses both object-level visual and label features to address the problem of detail missing.
+- STAT successfully takes into account both the spatial and temporal structures in a video.
+
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MM 2017</div><img src='images/STAT_MM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Video Description with Spatial-Temporal Attention](https://dl.acm.org/doi/10.1145/3123266.3123354) [[Code](https://github.com/tuyunbin/Video-Description-with-Spatial-Temporal-Attention)]  
+
+**Yunbin Tu**, Xishan Zhang, Bingtao Liu, Chenggang Yan
+
+- STAT uses object-level local features to address the problem of detail missing.
+- STAT selects relevant local features by spatial attention and then attend to important frames by temporal attention to recognize related semantics.
+</div>
+</div>
 
 # 🏆 Honors and Awards
 -  The Inaugural Doctoral Student Program under the Young Elite Scientists Sponsorship Program, China Association for Science and Technology, 2025. （首届中国科协青年人才托举工程博士生专项计划，托举学会：中国计算机学会）
