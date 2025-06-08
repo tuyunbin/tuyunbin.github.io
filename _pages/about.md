@@ -52,7 +52,7 @@ Selected publications are listed below, focusing on three primary research tasks
 
 **Yunbin Tu**, Liang Li, Li Su, Qingming Huang
 
-- QUAG addresses moment retrieval, moment segmentation, and step captioning in a unified framework
+- QUAG addresses moment retrieval, moment segmentation, and step captioning in a unified framework.
 - QUAG learns a query-centric audio-visual representation based on  the shallow-to-deep principle.
 </div>
 </div>
