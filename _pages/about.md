@@ -113,7 +113,7 @@ Selected publications are listed below, focusing on three primary research tasks
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021</div><img src='images/NCT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">EMNLP 2021</div><img src='images/R3NET.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
   
 [R<sup>3</sup>Net: Relation-embedded Representation Reconstruction Network for Change Captioning](https://aclanthology.org/2021.emnlp-main.735.pdf) [[Code](https://github.com/tuyunbin/r3net)] [[Video](https://aclanthology.org/2021.emnlp-main.735.mp4)]
@@ -125,6 +125,9 @@ Selected publications are listed below, focusing on three primary research tasks
   
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACL Findings 2021</div><img src='images/SRDRL.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
 [Semantic Relation-aware Difference Representation Learning for Change Captioning](https://aclanthology.org/2021.findings-acl.6.pdf) [[Code](https://github.com/tuyunbin/SRDRL)] [[Video](https://aclanthology.org/2021.findings-acl.6.mp4)]
 
