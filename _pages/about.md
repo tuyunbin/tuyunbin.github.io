@@ -80,7 +80,6 @@ Selected publications are listed below, focusing on three primary research tasks
 
 **Yunbin Tu**, Liang Li, Li Su, Zheng-Jun Zha, Qingming Huang
 
-- 
 - SMART uses a multi-aspect relation learning network to learn effective change features for caption generation.
 - SMART uses a POS-based visual switch to dynamically use visual information during different word generation.
   
