@@ -241,9 +241,9 @@ Chenggang Yan, **Yunbin Tu**, Xingzheng Wang, Yongbing Zhang, Xinhong Hao, Yongd
 -  Student Travel Grant, ACM International Conference on Multimedia (ACM MM), 2017.
 
 # 📖 Educations
-- 2022.09 - 2025.09, Ph.D. in Computer Applied Technology, University of Chinese Academy of Sciences (UCAS), China.
-- 2019.09 – 2022.06, M.S. in Pattern Recognition and Intelligent Systems, Kunming University of Science and Technology (KUST), China.
-- 2014.09 – 2018.06, B.S. in Automation, Hangzhou Dianzi University (HDU), China.
+- 2022 - 2025, Ph.D. in Computer Applied Technology, University of Chinese Academy of Sciences (UCAS), China.
+- 2019 – 2022, M.S. in Pattern Recognition and Intelligent Systems, Kunming University of Science and Technology (KUST), China.
+- 2014 – 2018, B.S. in Automation, Hangzhou Dianzi University (HDU), China.
 
 # 👨‍🏫 Academic Services
 - Area Chair of ACL 2025 / EMNLP 2025 / ACM MM 2025
