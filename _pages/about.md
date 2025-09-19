@@ -25,6 +25,7 @@ I am very fortunate to be advised by [Prof. Li Su](https://people.ucas.ac.cn/~su
 
 
 # 🔥 News
+- 2025.09: A paper is accepted by NeurIPS 2025. Congrats to Junxi Chen!
 - 2025.05: A paper is accepted by ACL 2025 Findings (long paper). Congrats to Yi Li!
 - 2025.04: I will be serving as an Area Chair for ACM MM 2025.
 - 2025.04: I will be serving as an Area Chair for EMNLP 2025.
