@@ -25,7 +25,7 @@ I received my doctoral degree from UCAS in 2025, advised by [Prof. Li Su](https:
 
 
 # 🔥 News
-- 2025.01: I will be serving as an Senior Program Committee (SPC) for IJCAI 2026.
+- 2025.01: I will be serving as an Senior Program Committee (SPC) for IJCAI-ECAI 2026.
 - 2025.01: I will be serving as an Area Chair (AC) for ACL 2026.
 - 2025.11: A paper is accepted by IEEE TMM. Congrats to Zhuo Tao!
 - 2025.09: A paper is accepted by IEEE TVCG. Congrats to Minghao Liu!
@@ -252,7 +252,7 @@ Chenggang Yan, **Yunbin Tu**, Xingzheng Wang, Yongbing Zhang, Xinhong Hao, Yongd
 
 # 👨‍🏫 Academic Services
 - Area Chair (AC) of ACL 2026 / ACL 2025 / EMNLP 2025 / ACM MM 2025
-- Senior Program Committee (SPC) of IJCAI 2026
+- Senior Program Committee (SPC) of IJCAI-ECAI 2026
 - Journal Reviewer of  TPAMI / TIP / TMM / TCSVT / PR / CVIU  ...
 - Conference Reviewer of ICCV / CVPR / ECCV / NeurIPS / AAAI / ICLR ...
 
