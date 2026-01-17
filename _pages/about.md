@@ -25,7 +25,7 @@ I received my doctoral degree from UCAS in 2025, advised by [Prof. Li Su](https:
 
 
 # 🔥 News
-- 2026.01: I will be serving as an Senior Program Committee (SPC) for IJCAI-ECAI 2026.
+- 2026.01: I will be serving as a Senior Program Committee (SPC) for IJCAI-ECAI 2026.
 - 2026.01: I will be serving as an Area Chair (AC) for ACL 2026.
 - 2025.11: A paper is accepted by IEEE TMM. Congrats to Zhuo Tao!
 - 2025.09: A paper is accepted by IEEE TVCG. Congrats to Minghao Liu!
