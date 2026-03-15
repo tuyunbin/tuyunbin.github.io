@@ -25,6 +25,7 @@ I received my doctoral degree from UCAS in 2025, advised by [Prof. Li Su](https:
 
 
 # 🔥 News
+- 2026.03: A paper is accepted by IJCV. Congrats to Zhuo Tao!
 - 2026.02: I will be serving as an Area Chair (AC) for ACM MM 2026.
 - 2026.01: I will be serving as a Senior Program Committee (SPC) for IJCAI-ECAI 2026.
 - 2026.01: I will be serving as an Area Chair (AC) for ACL 2026.
@@ -252,7 +253,7 @@ Chenggang Yan, **Yunbin Tu**, Xingzheng Wang, Yongbing Zhang, Xinhong Hao, Yongd
 - 2014 – 2018, B.S. in Automation, Hangzhou Dianzi University (HDU), China.
 
 # 👨‍🏫 Academic Services
-- Area Chair (AC) of ACL 2026 / ACL 2025 / EMNLP 2025 / ACM MM 2025
+- Area Chair (AC) of ACM MM 2026 / ACL 2026 / ACL 2025 / EMNLP 2025 / ACM MM 2025
 - Senior Program Committee (SPC) of IJCAI-ECAI 2026
 - Journal Reviewer of  TPAMI / TIP / TMM / TCSVT / PR / CVIU  ...
 - Conference Reviewer of ICCV / CVPR / ECCV / NeurIPS / AAAI / ICLR ...
