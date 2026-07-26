@@ -25,19 +25,22 @@ I received my doctoral degree from UCAS in 2025, advised by [Prof. Li Su](https:
 
 
 # 🔥 News
+- 2026.07: I will be serving as a Senior Program Committee (SPC) for AAAI 2027.
+- 2026.07: A paper is accepted by IEEE TIP. Congrats to Yamin!
+- 2026.06: A paper accepted by the Chinese Journal of Computers. i.e., 《计算机学报》.
 - 2026.05: I will be serving as an Area Chair (AC) for EMNLP 2026.
 - 2026.03: A paper is accepted by IJCV. Congrats to Zhuo Tao!
 - 2026.02: I will be serving as an Area Chair (AC) for ACM MM 2026.
 - 2026.01: I will be serving as a Senior Program Committee (SPC) for IJCAI-ECAI 2026.
 - 2026.01: I will be serving as an Area Chair (AC) for ACL 2026.
-- 2025.11: A paper is accepted by IEEE TMM. Congrats to Zhuo Tao!
-- 2025.09: A paper is accepted by IEEE TVCG. Congrats to Minghao Liu!
-- 2025.09: A paper is accepted by NeurIPS 2025. Congrats to Junxi Chen!
-- 2025.05: A paper is accepted by ACL 2025 Findings (long paper). Congrats to Yi Li!
-- 2025.04: I will be serving as an Area Chair (AC) for ACM MM 2025.
-- 2025.04: I will be serving as an Area Chair (AC) for EMNLP 2025.
-- 2025.02: I will be serving as an Area Chair (AC) for ACL 2025.
-- 2025.01: Selected for the Inaugural Doctoral Student Program under the Young Elite Scientists Sponsorship Program by CAST. （入选首届中国科协青年人才托举工程博士生专项计划，托举学会：中国计算机学会）
+<!-- 2025.11: A paper is accepted by IEEE TMM. Congrats to Zhuo Tao! -->
+<!-- 2025.09: A paper is accepted by IEEE TVCG. Congrats to Minghao Liu! -->
+<!-- 2025.09: A paper is accepted by NeurIPS 2025. Congrats to Junxi Chen! -->
+<!-- 2025.05: A paper is accepted by ACL 2025 Findings (long paper). Congrats to Yi Li! -->
+<!-- 2025.04: I will be serving as an Area Chair (AC) for ACM MM 2025. -->
+<!-- 2025.04: I will be serving as an Area Chair (AC) for EMNLP 2025. -->
+<!-- 2025.02: I will be serving as an Area Chair (AC) for ACL 2025. -->
+<!-- 2025.01: Selected for the Inaugural Doctoral Student Program under the Young Elite Scientists Sponsorship Program by CAST. （入选首届中国科协青年人才托举工程博士生专项计划，托举学会：中国计算机学会）
 <!-- 2024.12: Two papers are accepted by AAAI 2025. Congrats to Shijie Li! -->
 <!-- 2024.07: A paper is accepted by ECCV 2024. -->
 <!-- 2024.07: A paper is accepted by ACM MM 2024. Congrats to Shijie Li! -->
@@ -255,7 +258,7 @@ Chenggang Yan, **Yunbin Tu**, Xingzheng Wang, Yongbing Zhang, Xinhong Hao, Yongd
 
 # 👨‍🏫 Academic Services
 - Area Chair (AC) of EMNLP 2026 / ACM MM 2026 / ACL 2026 / ACL 2025 / EMNLP 2025 / ACM MM 2025
-- Senior Program Committee (SPC) of IJCAI-ECAI 2026
+- Senior Program Committee (SPC) of AAAI 2027 / IJCAI-ECAI 2026
 - Journal Reviewer of  TPAMI / TIP / TMM / TCSVT / IJCV / PR   ...
 - Conference Reviewer of ICCV / CVPR / ECCV / ICML / AAAI / ICLR ...
 
