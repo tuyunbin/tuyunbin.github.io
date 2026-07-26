@@ -27,7 +27,7 @@ I received my doctoral degree from UCAS in 2025, advised by [Prof. Li Su](https:
 # 🔥 News
 - 2026.07: I will be serving as a Senior Program Committee (SPC) for AAAI 2027.
 - 2026.07: A paper is accepted by IEEE TIP. Congrats to Yamin!
-- 2026.06: A paper accepted by the Chinese Journal of Computers. i.e., 《计算机学报》.
+- 2026.06: A paper is accepted by  Chinese Journal of Computers. i.e., 《计算机学报》.
 - 2026.05: I will be serving as an Area Chair (AC) for EMNLP 2026.
 - 2026.03: A paper is accepted by IJCV. Congrats to Zhuo Tao!
 - 2026.02: I will be serving as an Area Chair (AC) for ACM MM 2026.
