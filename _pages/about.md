@@ -25,6 +25,7 @@ I received my doctoral degree from UCAS in 2025, advised by [Prof. Li Su](https:
 
 
 # 🔥 News
+- 2026.08: A paper is accepted by Image and Vision Computing. Congrats to Hao Li!
 - 2026.07: I will be serving as a Senior Program Committee (SPC) for AAAI 2027.
 - 2026.07: A paper is accepted by IEEE TIP. Congrats to Yamin!
 - 2026.06: A paper is accepted by  Chinese Journal of Computers. i.e., 《计算机学报》.
