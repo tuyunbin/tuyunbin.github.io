@@ -25,7 +25,7 @@ I received my doctoral degree from UCAS in 2025, advised by [Prof. Li Su](https:
 
 
 # 🔥 News
-- 2026.10: I was recognized as a CVPR 2026 Outstanding Reviewer.
+- 2026.10: I am recognized as a CVPR 2026 Outstanding Reviewer.
 - 2026.09: A paper is accepted by IEEE TPAMI!
 - 2026.09: A paper is accepted by Medical Image Analysis. Congrats to Guanqun Sun!
 - 2026.08: A paper is accepted by Image and Vision Computing. Congrats to Hao Li!
