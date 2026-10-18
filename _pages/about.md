@@ -262,7 +262,7 @@ Chenggang Yan, **Yunbin Tu**, Xingzheng Wang, Yongbing Zhang, Xinhong Hao, Yongd
 - 2014 – 2018, B.S. in Automation, Hangzhou Dianzi University (HDU), China.
 
 # 👨‍🏫 Academic Services
-- Area Chair (AC) of EMNLP 2026 / ACM MM 2026 / ACL 2026 / ACL 2025 / EMNLP 2025 / ACM MM 2025
+- Area Chair (AC) of NAACL 2027 / EMNLP 2026 / ACM MM 2026 / ACL 2026 / ACL 2025 / EMNLP 2025 / ACM MM 2025
 - Senior Program Committee (SPC) of AAAI 2027 / IJCAI-ECAI 2026
 - Journal Reviewer of  TPAMI / TIP / TMM / TCSVT / IJCV / PR   ...
 - Conference Reviewer of ICCV / CVPR / ECCV / ICML / AAAI / ICLR ...
