@@ -25,6 +25,8 @@ I received my doctoral degree from UCAS in 2025, advised by [Prof. Li Su](https:
 
 
 # 🔥 News
+- 2026.10: I will be serving as an Area Chair (AC) for CVPR 2027.
+- 2026.10: I will be serving as a Senior Program Committee (SPC) for IJCAI 2027.
 - 2026.10: I will be serving as an Area Chair (AC) for NAACL 2027.
 - 2026.10: I am recognized as a CVPR 2026 Outstanding Reviewer.
 - 2026.09: A paper is accepted by IEEE TPAMI!
@@ -262,10 +264,10 @@ Chenggang Yan, **Yunbin Tu**, Xingzheng Wang, Yongbing Zhang, Xinhong Hao, Yongd
 - 2014 – 2018, B.S. in Automation, Hangzhou Dianzi University (HDU), China.
 
 # 👨‍🏫 Academic Services
-- Area Chair (AC) of NAACL 2027 / EMNLP 2026 / ACM MM 2026 / ACL 2026 / ACL 2025 / EMNLP 2025 / ACM MM 2025
-- Senior Program Committee (SPC) of AAAI 2027 / IJCAI-ECAI 2026
+- Area Chair (AC) of CVPR 2027 / NAACL 2027 / EMNLP 2026 / ACM MM 2026 / ACL 2026 / ACL 2025 / EMNLP 2025 / ACM MM 2025
+- Senior Program Committee (SPC) of AAAI 2027 / IJCAI-ECAI 2026 / IJCAI 2027
 - Journal Reviewer of  TPAMI / TIP / TMM / TCSVT / TNNLS / IJCV ...
-- Conference Reviewer of ICCV / CVPR / ECCV / ICML / NeurIPS / ICLR ...
+- Conference Reviewer of ICCV / ECCV / ICML / NeurIPS / ICLR ...
 
 <!-- # ⚙️ Misc
 - A summary of papers on gesture and sign language recognition. [![](https://img.shields.io/github/stars/ycmin95/awesome-Gesture-Sign-Language-Recognition?style=social&label=Awesome-Gesture-Sign-Language-Recognition Stars)](https://github.com/ycmin95/awesome-Gesture-Sign-Language-Recognition)
